@@ -51,7 +51,7 @@ Learning → Building → Debugging → Failing → Fixing → Repeat 🔁
 * [ ] 🚀 Become strong in Spring Boot
 * [ ] 🏗️ Build production-style backend projects
 * [ ] 🧠 Improve DSA
-* [ ] 💼 Land my first developer role
+* [ ] 🎯: Keep learning, keep building, keep moving forward.
 * [ ] ⭐ Build projects worth showcasing
 
 ## 🤝 Let's Connect
@@ -59,5 +59,6 @@ Learning → Building → Debugging → Failing → Fixing → Repeat 🔁
 📌 **GitHub:** [trikesh144](https://github.com/trikesh144)
 
 ---
-☕ Fun fact: Coffee doesn't fix my bugs, but somehow the bugs disappear after coffee.
+☕ 𝙁𝙪𝙣 𝙛𝙖𝙘𝙩: 𝘾𝙤𝙛𝙛𝙚𝙚 𝙙𝙤𝙚𝙨𝙣'𝙩 𝙛𝙞𝙭 𝙢𝙮 𝙗𝙪𝙜𝙨, 𝙗𝙪𝙩 𝙨𝙤𝙢𝙚𝙝𝙤𝙬 𝙩𝙝𝙚 𝙗𝙪𝙜𝙨 𝙙𝙞𝙨𝙖𝙥𝙥𝙚𝙖𝙧 𝙖𝙛𝙩𝙚𝙧 𝙘𝙤𝙛𝙛𝙚𝙚.
+
 ### ⚡ Keep Coding. Keep Building. Keep Improving.
