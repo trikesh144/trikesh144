@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Hey, I'm Trilochan Sahoo
 
-<!--
-**trikesh144/trikesh144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Building things, breaking things, and learning how to fix them.
 
-Here are some ideas to get you started:
+I'm a **CSE student** passionate about **Backend Development** and **Problem Solving**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+☕ Java
+🌱 Spring Boot
+🗄️ MySQL
+🔌 REST APIs
+🧠 DSA
+💻 C++
+```
+
+## 🔥 What I'm Up To
+
+* 🛠️ Building backend projects with **Java & Spring Boot**
+* 🧠 Sharpening my **DSA & problem-solving** skills
+* 🌱 Learning how real-world backend systems are designed
+* 🚀 Turning ideas into working projects
+
+## 🧩 Tech I Work With
+
+| Category           | Technologies                        |
+| ------------------ | ----------------------------------- |
+| 💻 Languages       | Java, C++, SQL                      |
+| ⚙️ Backend         | Spring Boot, REST API               |
+| 🗄️ Database       | MySQL                               |
+| 🧠 Problem Solving | DSA, Competitive Programming        |
+| 🛠️ Tools          | Git, GitHub, Postman, IntelliJ IDEA |
+
+## 🚀 Featured Project
+
+### 🎓 Student Management System
+
+A REST API built with **Spring Boot + MySQL** for managing student records.
+
+🔗 [View Project](https://github.com/trikesh144/SpringBoot-CRUD-Project)
+
+## 📊 My Coding Journey
+
+```text
+Learning → Building → Debugging → Failing → Fixing → Repeat 🔁
+```
+
+> "The code works. I have no idea why. Don't touch it." 😭
+
+## 🎯 2026 Goals
+
+* [ ] 🚀 Become strong in Spring Boot
+* [ ] 🏗️ Build production-style backend projects
+* [ ] 🧠 Improve DSA
+* [ ] 💼 Land my first developer role
+* [ ] ⭐ Build projects worth showcasing
+
+## 🤝 Let's Connect
+
+📌 **GitHub:** [trikesh144](https://github.com/trikesh144)
+
+---
+☕ Fun fact: Coffee doesn't fix my bugs, but somehow the bugs disappear after coffee.
+### ⚡ Keep Coding. Keep Building. Keep Improving.
